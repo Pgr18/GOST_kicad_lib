@@ -1,0 +1,1 @@
+# GOST_kicad_lib
