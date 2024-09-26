@@ -14,7 +14,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "Resistor"
 			(at 0.254 3.048 0)
 			(effects
 				(font
