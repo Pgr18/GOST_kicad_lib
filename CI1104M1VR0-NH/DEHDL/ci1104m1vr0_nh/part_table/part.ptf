@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CI1104M1VR0_NH'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CivLux", "CI1104M1VR0-NH" (!) = "", "CI1104M1VR0NH", "Other", "", "", "", "", "Connector Header Surface Mount 4 position 0.039" (1.00mm)", "https://www.cvilux.com/uploads/drawings/100/224/CI1152S.pdf", "5.1 mm"
+END_PART
+
+END.

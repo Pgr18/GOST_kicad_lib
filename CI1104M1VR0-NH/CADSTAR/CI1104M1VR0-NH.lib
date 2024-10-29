@@ -1,0 +1,19 @@
+.CI1104M1VR0-NH :1 ;Connector Header Surface Mount 4 position 0.039" (1.00mm)
+CI1104M1VR0NH
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=MP1 6=MP2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="MP1" 6="MP2"
+*MXP 6
+*DFN CI1104M1VR0-NH
+~!Manufacturer_Name (CivLux)
+~!Manufacturer_Part_Number (CI1104M1VR0-NH)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.cvilux.com/uploads/drawings/100/224/CI1152S.pdf)
+~!Height (5.1mm)
+~!3D_Model (CI1104M1VR0-NH)
+CI1104M1VR0-NH
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 
