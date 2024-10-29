@@ -37,5 +37,6 @@
 На рисунке 4 представлена 3D-модель печатной платы.
 
 <image src="https://github.com/Pgr18/GOST_kicad_lib/blob/Prohorova-Christina/3dplata.png" alt= "Рисунок 4 - 3D модель печатной платы">
+  
 Рисунок 4 - 3D модель печатной платы
 
